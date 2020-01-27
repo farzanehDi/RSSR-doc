@@ -37,11 +37,12 @@ Is a file that contains the es-lint settings. As you know, this is a file that h
 Includes basic requirements for the app, including:
 
 -- .gitignore
+
 -- package.json
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTM1MzMyOSwtMTMxNDQ5MTc0M119
+eyJoaXN0b3J5IjpbLTIzNDgzNzE1MSwtMTMxNDQ5MTc0M119
 -->
