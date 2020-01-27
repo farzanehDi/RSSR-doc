@@ -35,6 +35,7 @@ Is a file that contains the es-lint settings. As you know, this is a file that h
 
 ## basic Requirements
 Includes basic requirements for the app, including:
+
 -- .gitignore
 -- package.json
 
@@ -42,5 +43,5 @@ Includes basic requirements for the app, including:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQ0OTE3NDNdfQ==
+eyJoaXN0b3J5IjpbLTczNTM1MzMyOSwtMTMxNDQ5MTc0M119
 -->
