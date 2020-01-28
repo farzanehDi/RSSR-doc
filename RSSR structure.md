@@ -62,10 +62,11 @@ Includes node js web server startup files in both development and production mod
 ## setup
 Contains the methods and operations of the privider section, in fact we put here the initial setup we need for the provider discussion
 ## webpack
+This folder contains web pack settings.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjEzODQ3MjUsMjAxMzYxMjMyNiwtND
+eyJoaXN0b3J5IjpbLTE5NTI4MTAwNjIsMjAxMzYxMjMyNiwtND
 Q0NTM0Nzk1LC0xODExOTkyNjU2LDIxMTk1NDgzNSwxMjY1NTk2
 ODk0XX0=
 -->
