@@ -48,8 +48,8 @@ Our application, for example, starts with the npm run start command and, for exa
 As mentioned earlier, the top of this application is the provider folder,from this folder and the executable tools it is decided which response folder to export (/public or /src)
 If it is static and in the public folder it will definitely be delivered to this folder and otherwise to the src folder.
 Finally the response is passed to the browser.
-![How is a request handled by a web application written with RSSR](http://webdesignworld.ir/RSSR/RSSR-request.png](http://webdesignworld.ir/RSSR/RSSR-request.png)
+![](http://webdesignworld.ir/RSSR/RSSR-request.png](http://webdesignworld.ir/RSSR/RSSR-request.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDI5NTQwNSwyMTE5NTQ4MzUsMTI2NT
-U5Njg5NF19
+eyJoaXN0b3J5IjpbLTE4MTE5OTI2NTYsMjExOTU0ODM1LDEyNj
+U1OTY4OTRdfQ==
 -->
