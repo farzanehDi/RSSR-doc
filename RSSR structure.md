@@ -50,7 +50,17 @@ As mentioned earlier, the top of this application is the provider folder,from th
 If it is static and in the public folder it will definitely be delivered to this folder and otherwise to the src folder.
 Finally the response is passed to the browser.
 ![](http://webdesignworld.ir/RSSR/RSSR-request.png)
+# Folder provider entities
+There are three main directories in the provider directory:
+
+ - server
+ - setup
+ - webpack
+
+## server
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDUzNDc5NSwtMTgxMTk5MjY1NiwyMT
-E5NTQ4MzUsMTI2NTU5Njg5NF19
+eyJoaXN0b3J5IjpbLTYxMDAzNDk1OSwtNDQ0NTM0Nzk1LC0xOD
+ExOTkyNjU2LDIxMTk1NDgzNSwxMjY1NTk2ODk0XX0=
 -->
