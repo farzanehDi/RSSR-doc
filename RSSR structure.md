@@ -65,11 +65,10 @@ There are three main directories in the provider directory:
 	 * ***npm run start-pm2***:runs the project with pm2
 	 * ***npm run up***:In fact, to help with the second command, we use this command to update the project when the project is running with pm-2.
 	 
- - The last command is the ***npm run build*** , which when we want to execute the production mode, we first execute this command to really build the project and come up with the disk and execute the production mode commands.
-
+ - The last command is the ***npm run build***, which when we want to execute the production mode, we first execute this command to really build the project and place it on disk and execute the production mode commands.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0NzM0MjA0LDM1OTI2NjMwOCwxNjIwMz
-I4OTcyLDcxNjAyNjE2MSwtMTk1OTQxNTUzNSwtMTk1MjgxMDA2
-MiwyMDEzNjEyMzI2LC00NDQ1MzQ3OTUsLTE4MTE5OTI2NTYsMj
-ExOTU0ODM1LDEyNjU1OTY4OTRdfQ==
+eyJoaXN0b3J5IjpbLTE1MzExOTIyMjksMzU5MjY2MzA4LDE2Mj
+AzMjg5NzIsNzE2MDI2MTYxLC0xOTU5NDE1NTM1LC0xOTUyODEw
+MDYyLDIwMTM2MTIzMjYsLTQ0NDUzNDc5NSwtMTgxMTk5MjY1Ni
+wyMTE5NTQ4MzUsMTI2NTU5Njg5NF19
 -->
