@@ -58,9 +58,11 @@ There are three main directories in the provider directory:
  - webpack
 
 ## server
+Includes node js web server startup files in both development and production modes
+## setup
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDAzNDk1OSwtNDQ0NTM0Nzk1LC0xOD
+eyJoaXN0b3J5IjpbMjAxMzYxMjMyNiwtNDQ0NTM0Nzk1LC0xOD
 ExOTkyNjU2LDIxMTk1NDgzNSwxMjY1NTk2ODk0XX0=
 -->
