@@ -63,10 +63,10 @@ There are three main directories in the provider directory:
 * The second category is the project execution instructions in production mode.
 	 * ***npm run start***:runs the project with node.js
 	 * ***npm run start-pm2***:runs the project with pm2
-	 * ***npm run up***:
+	 * ***npm run up***:In fact, to help with the second command, we use this command to update the project when the project is running with a star.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDMyODk3Miw3MTYwMjYxNjEsLTE5NT
-k0MTU1MzUsLTE5NTI4MTAwNjIsMjAxMzYxMjMyNiwtNDQ0NTM0
-Nzk1LC0xODExOTkyNjU2LDIxMTk1NDgzNSwxMjY1NTk2ODk0XX
-0=
+eyJoaXN0b3J5IjpbMTkxMTc5NjY3LDE2MjAzMjg5NzIsNzE2MD
+I2MTYxLC0xOTU5NDE1NTM1LC0xOTUyODEwMDYyLDIwMTM2MTIz
+MjYsLTQ0NDUzNDc5NSwtMTgxMTk5MjY1NiwyMTE5NTQ4MzUsMT
+I2NTU5Njg5NF19
 -->
