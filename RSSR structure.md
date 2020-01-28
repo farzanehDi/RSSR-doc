@@ -41,9 +41,14 @@ Includes basic requirements for the app, including:
 -- package.json
 
 
-
-
+# How is a request handled by a web application written with RSSR?
+Our site is hosted on a server, the browser calls an address that is our site address. This address reaches the Internet and is delivered to our server.
+The web server runs a proxy to our RSSR application and this request reaches our application.
+Our application, for example, starts with the npm run start command and, for example, is running on port 3000 server , the request that comes will be delivered to that port and entered into our app.
+As mentioned earlier, the top of this application is the provider folder,from this folder and the executable tools it is decided which response folder to export (/public or /src)
+If it is static and in the public folder it will definitely be delivered to this folder and otherwise to the src folder.
+Finally the response is passed to the browser.
+![How is a request handled by a web application written with RSSR](rssr)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDgzNzE1MSwtMTMxNDQ5MTc0MywtMj
-M0ODM3MTUxXX0=
+eyJoaXN0b3J5IjpbMTI2NTU5Njg5NF19
 -->
