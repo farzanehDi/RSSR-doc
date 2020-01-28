@@ -59,10 +59,11 @@ There are three main directories in the provider directory:
  # What happens in the Provider folder
  We have three main command categories:
  
- - The first category is the ***npm run dev*** that run the project to the development mood.
-
+ - The first category is the ***npm run dev*** that run the project to the development mode.
+* The second category is the project execution instructions in production mode.
+	 * ***npm run start***:runs the project with n
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTI1NzE0Miw3MTYwMjYxNjEsLTE5NT
+eyJoaXN0b3J5IjpbLTE4MDI4MjA1MSw3MTYwMjYxNjEsLTE5NT
 k0MTU1MzUsLTE5NTI4MTAwNjIsMjAxMzYxMjMyNiwtNDQ0NTM0
 Nzk1LC0xODExOTkyNjU2LDIxMTk1NDgzNSwxMjY1NTk2ODk0XX
 0=
