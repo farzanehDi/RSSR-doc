@@ -60,9 +60,12 @@ There are three main directories in the provider directory:
 ## server
 Includes node js web server startup files in both development and production modes
 ## setup
+Contains the methods and operations of the privider section, in fact we put here the initial setup we need for the provider discussion
+## webpack
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzYxMjMyNiwtNDQ0NTM0Nzk1LC0xOD
-ExOTkyNjU2LDIxMTk1NDgzNSwxMjY1NTk2ODk0XX0=
+eyJoaXN0b3J5IjpbLTE1MjEzODQ3MjUsMjAxMzYxMjMyNiwtND
+Q0NTM0Nzk1LC0xODExOTkyNjU2LDIxMTk1NDgzNSwxMjY1NTk2
+ODk0XX0=
 -->
