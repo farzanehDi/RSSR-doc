@@ -53,20 +53,15 @@ Finally the response is passed to the browser.
 # Folder provider entities
 There are three main directories in the provider directory:
 
- - server
- - setup
- - webpack
+ - server: Includes node js web server startup files in both development and production modes
+ - setup: Contains the methods and operations of the privider section, in fact we put here the initial setup we need for the provider discussion
+ - webpack: this folder contains web pack settings.
 
-## server
-Includes node js web server startup files in both development and production modes
-## setup
-Contains the methods and operations of the privider section, in fact we put here the initial setup we need for the provider discussion
-## webpack
-This folder contains web pack settings.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTI4MTAwNjIsMjAxMzYxMjMyNiwtND
-Q0NTM0Nzk1LC0xODExOTkyNjU2LDIxMTk1NDgzNSwxMjY1NTk2
-ODk0XX0=
+eyJoaXN0b3J5IjpbLTE5NTk0MTU1MzUsLTE5NTI4MTAwNjIsMj
+AxMzYxMjMyNiwtNDQ0NTM0Nzk1LC0xODExOTkyNjU2LDIxMTk1
+NDgzNSwxMjY1NTk2ODk0XX0=
 -->
