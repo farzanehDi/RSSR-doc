@@ -71,11 +71,12 @@ npm scripts execute that file if they hit a file,the ***npm run dev*** command w
 If you go inside the development.js file in the server directory you can see that we wrote a node.js web server with express.finally, what appears to be a node.js web server configured to run our project in development mode.
 
 The production commands also execute the production.js file inside the server directory and do the same thing as the development file this time in the production mode, though some configs are different.
+***npm run build*** Command is the command that Web Pack executes to project our project, actually processing the src folder to end up with a series of files defined by us in Web Pack Configuration.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwMzUyNjg1LDE0NjU3OTY0OTIsLTI0OT
-gwNTgwNiw0ODI1MzQzMTYsLTExMzgzODYwMDMsLTE1MzExOTIy
-MjksMzU5MjY2MzA4LDE2MjAzMjg5NzIsNzE2MDI2MTYxLC0xOT
-U5NDE1NTM1LC0xOTUyODEwMDYyLDIwMTM2MTIzMjYsLTQ0NDUz
-NDc5NSwtMTgxMTk5MjY1NiwyMTE5NTQ4MzUsMTI2NTU5Njg5NF
-19
+eyJoaXN0b3J5IjpbLTEwNTEwNjQ1NTcsODkwMzUyNjg1LDE0Nj
+U3OTY0OTIsLTI0OTgwNTgwNiw0ODI1MzQzMTYsLTExMzgzODYw
+MDMsLTE1MzExOTIyMjksMzU5MjY2MzA4LDE2MjAzMjg5NzIsNz
+E2MDI2MTYxLC0xOTU5NDE1NTM1LC0xOTUyODEwMDYyLDIwMTM2
+MTIzMjYsLTQ0NDUzNDc5NSwtMTgxMTk5MjY1NiwyMTE5NTQ4Mz
+UsMTI2NTU5Njg5NF19
 -->
