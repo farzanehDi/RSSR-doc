@@ -66,11 +66,11 @@ There are three main directories in the provider directory:
 	 * ***npm run up***:In fact, to help with the second command, we use this command to update the project when the project is running with pm-2.
 	 
  - The last command is the ***npm run build***, which when we want to execute the production mode, we first execute this command to really build the project and place it on disk and execute the production mode commands.
-npm scripts execute that file if they hit a file,the **npm run dev** command will execute the **development** file located in the server folder and in the provider folder...
+npm scripts execute that file if they hit a file,the ***npm run dev*** command will execute the **development** file located in the server folder and in the provider folder.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTM5ODYwNiwtMTEzODM4NjAwMywtMT
-UzMTE5MjIyOSwzNTkyNjYzMDgsMTYyMDMyODk3Miw3MTYwMjYx
-NjEsLTE5NTk0MTU1MzUsLTE5NTI4MTAwNjIsMjAxMzYxMjMyNi
-wtNDQ0NTM0Nzk1LC0xODExOTkyNjU2LDIxMTk1NDgzNSwxMjY1
-NTk2ODk0XX0=
+eyJoaXN0b3J5IjpbNDgyNTM0MzE2LC0xMTM4Mzg2MDAzLC0xNT
+MxMTkyMjI5LDM1OTI2NjMwOCwxNjIwMzI4OTcyLDcxNjAyNjE2
+MSwtMTk1OTQxNTUzNSwtMTk1MjgxMDA2MiwyMDEzNjEyMzI2LC
+00NDQ1MzQ3OTUsLTE4MTE5OTI2NTYsMjExOTU0ODM1LDEyNjU1
+OTY4OTRdfQ==
 -->
