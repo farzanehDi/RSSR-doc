@@ -74,13 +74,14 @@ The production commands also execute the production.js file inside the server di
 ***npm run build*** is the command that web pack executes for our project, in fact it processes the src folder to be executed at the end with a set of files specified by us in the web pack configuration.
 So far we have three categories of commands that each run one of our three files. The first two commands create a web server that is persistent and survives, but the last command build the project and the job is done.
 The other folder we had was the ***setup***, which are methods and operations that can be called in all of them.
-The ***development.js*** file in the web pack directory is not executed directly by any command and is for development mode and executes indirectly and build the project files (src folder) except the files are not on disk and in they are RAM because this build is done regularly
+The ***development.js*** file in the web pack directory is not executed directly by any command and is for development mode and executes indirectly and build the project files (src folder) except the files are not on disk and in they are RAM because this build is done regularly.
+It actually executes the result of the npm run build Pack file tree command and eventually creates a folder called dist at the root of the project which is a series of physical files.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQwOTE4MjAsMjM1Mjg4NTA5LC0xOD
-YyODg4Nzg0LDg5MDM1MjY4NSwxNDY1Nzk2NDkyLC0yNDk4MDU4
-MDYsNDgyNTM0MzE2LC0xMTM4Mzg2MDAzLC0xNTMxMTkyMjI5LD
-M1OTI2NjMwOCwxNjIwMzI4OTcyLDcxNjAyNjE2MSwtMTk1OTQx
-NTUzNSwtMTk1MjgxMDA2MiwyMDEzNjEyMzI2LC00NDQ1MzQ3OT
-UsLTE4MTE5OTI2NTYsMjExOTU0ODM1LDEyNjU1OTY4OTRdfQ==
-
+eyJoaXN0b3J5IjpbMjAwNjM4NTI2MiwtMTE2NDA5MTgyMCwyMz
+UyODg1MDksLTE4NjI4ODg3ODQsODkwMzUyNjg1LDE0NjU3OTY0
+OTIsLTI0OTgwNTgwNiw0ODI1MzQzMTYsLTExMzgzODYwMDMsLT
+E1MzExOTIyMjksMzU5MjY2MzA4LDE2MjAzMjg5NzIsNzE2MDI2
+MTYxLC0xOTU5NDE1NTM1LC0xOTUyODEwMDYyLDIwMTM2MTIzMj
+YsLTQ0NDUzNDc5NSwtMTgxMTk5MjY1NiwyMTE5NTQ4MzUsMTI2
+NTU5Njg5NF19
 -->
