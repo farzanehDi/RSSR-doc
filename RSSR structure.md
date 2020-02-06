@@ -49,7 +49,8 @@ Our application, for example, starts with the npm run start command and, for exa
 As mentioned earlier, the top of this application is the provider folder,from this folder and the executable tools it is decided which response folder to export (/public or /src)
 If it is static and in the public folder it will definitely be delivered to this folder and otherwise to the src folder.
 finally the response is passed to the browser.
-![](http://webdesignworld.ir/RSSR/RSSR-request.png)
+![](http://webdesignworld.ir/RSSR/R
+SSR-request.png)
 # Folder provider entities
 There are three main directories in the provider directory:
 
@@ -84,11 +85,11 @@ The ***dist*** folder (which is physically) is for production mode and the dist 
 And finally, the public folder that for serving static files.
 ![enter image description here](http://webdesignworld.ir/RSSR/RSSR.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjA1NTU5MCwtMTI3NjI4NzA1MSw4Nj
-Q5MDk4NTQsLTI1Mjc4MzQ2NywtMTE2NDA5MTgyMCwyMzUyODg1
-MDksLTE4NjI4ODg3ODQsODkwMzUyNjg1LDE0NjU3OTY0OTIsLT
-I0OTgwNTgwNiw0ODI1MzQzMTYsLTExMzgzODYwMDMsLTE1MzEx
-OTIyMjksMzU5MjY2MzA4LDE2MjAzMjg5NzIsNzE2MDI2MTYxLC
-0xOTU5NDE1NTM1LC0xOTUyODEwMDYyLDIwMTM2MTIzMjYsLTQ0
-NDUzNDc5NV19
+eyJoaXN0b3J5IjpbLTY3MTk3NDQwOCwxNDc2MDU1NTkwLC0xMj
+c2Mjg3MDUxLDg2NDkwOTg1NCwtMjUyNzgzNDY3LC0xMTY0MDkx
+ODIwLDIzNTI4ODUwOSwtMTg2Mjg4ODc4NCw4OTAzNTI2ODUsMT
+Q2NTc5NjQ5MiwtMjQ5ODA1ODA2LDQ4MjUzNDMxNiwtMTEzODM4
+NjAwMywtMTUzMTE5MjIyOSwzNTkyNjYzMDgsMTYyMDMyODk3Mi
+w3MTYwMjYxNjEsLTE5NTk0MTU1MzUsLTE5NTI4MTAwNjIsMjAx
+MzYxMjMyNl19
 -->
