@@ -87,14 +87,15 @@ And finally, the public folder that for serving static files.
 
 # src folder structure
 
- - **render**:the starting point is the src section, the basic configs are in this section
+ - **render**:the starting point is the src section, the basic configs are in this section.
+ - **App**: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzODMzNjQyLC02NzE5NzQ0MDgsMTQ3Nj
-A1NTU5MCwtMTI3NjI4NzA1MSw4NjQ5MDk4NTQsLTI1Mjc4MzQ2
-NywtMTE2NDA5MTgyMCwyMzUyODg1MDksLTE4NjI4ODg3ODQsOD
-kwMzUyNjg1LDE0NjU3OTY0OTIsLTI0OTgwNTgwNiw0ODI1MzQz
-MTYsLTExMzgzODYwMDMsLTE1MzExOTIyMjksMzU5MjY2MzA4LD
-E2MjAzMjg5NzIsNzE2MDI2MTYxLC0xOTU5NDE1NTM1LC0xOTUy
-ODEwMDYyXX0=
+eyJoaXN0b3J5IjpbMjkyOTQzMjIsLTY3MTk3NDQwOCwxNDc2MD
+U1NTkwLC0xMjc2Mjg3MDUxLDg2NDkwOTg1NCwtMjUyNzgzNDY3
+LC0xMTY0MDkxODIwLDIzNTI4ODUwOSwtMTg2Mjg4ODc4NCw4OT
+AzNTI2ODUsMTQ2NTc5NjQ5MiwtMjQ5ODA1ODA2LDQ4MjUzNDMx
+NiwtMTEzODM4NjAwMywtMTUzMTE5MjIyOSwzNTkyNjYzMDgsMT
+YyMDMyODk3Miw3MTYwMjYxNjEsLTE5NTk0MTU1MzUsLTE5NTI4
+MTAwNjJdfQ==
 -->
