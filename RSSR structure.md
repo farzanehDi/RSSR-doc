@@ -76,12 +76,14 @@ So far we have three categories of commands that each run one of our three files
 The other folder we had was the ***setup***, which are methods and operations that can be called in all of them.
 The ***development.js*** file in the web pack directory is not executed directly by any command and is for development mode and executes indirectly and build the project files (src folder) except the files are not on disk and in they are RAM because this build is done regularly.
 In fact, the result of the npm run build command executes the production.js file in the web pack and ultimately creates a folder called dist at the root of the project, which is a series of physical files.
+
+Both production setting and development setting on the web pack ,call src folder. Connecting the provider section to the src segment is done via web settings because the star directory is not directly implemented on the node server but is to be compiled on it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1Mjc4MzQ2NywtMTE2NDA5MTgyMCwyMz
-UyODg1MDksLTE4NjI4ODg3ODQsODkwMzUyNjg1LDE0NjU3OTY0
-OTIsLTI0OTgwNTgwNiw0ODI1MzQzMTYsLTExMzgzODYwMDMsLT
-E1MzExOTIyMjksMzU5MjY2MzA4LDE2MjAzMjg5NzIsNzE2MDI2
-MTYxLC0xOTU5NDE1NTM1LC0xOTUyODEwMDYyLDIwMTM2MTIzMj
-YsLTQ0NDUzNDc5NSwtMTgxMTk5MjY1NiwyMTE5NTQ4MzUsMTI2
-NTU5Njg5NF19
+eyJoaXN0b3J5IjpbMTgxMzA1Mzg1MywtMjUyNzgzNDY3LC0xMT
+Y0MDkxODIwLDIzNTI4ODUwOSwtMTg2Mjg4ODc4NCw4OTAzNTI2
+ODUsMTQ2NTc5NjQ5MiwtMjQ5ODA1ODA2LDQ4MjUzNDMxNiwtMT
+EzODM4NjAwMywtMTUzMTE5MjIyOSwzNTkyNjYzMDgsMTYyMDMy
+ODk3Miw3MTYwMjYxNjEsLTE5NTk0MTU1MzUsLTE5NTI4MTAwNj
+IsMjAxMzYxMjMyNiwtNDQ0NTM0Nzk1LC0xODExOTkyNjU2LDIx
+MTk1NDgzNV19
 -->
