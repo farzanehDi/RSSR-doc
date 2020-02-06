@@ -88,14 +88,15 @@ And finally, the public folder that for serving static files.
 # src folder structure
 
  - **render**:the starting point is the src section, the basic configs are in this section.
- - **App**: 
+ - **App**: Includes standalone entities that can cover a full view of the site and connect to the site's routing.
+ -  **component**:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyOTQzMjIsLTY3MTk3NDQwOCwxNDc2MD
-U1NTkwLC0xMjc2Mjg3MDUxLDg2NDkwOTg1NCwtMjUyNzgzNDY3
-LC0xMTY0MDkxODIwLDIzNTI4ODUwOSwtMTg2Mjg4ODc4NCw4OT
-AzNTI2ODUsMTQ2NTc5NjQ5MiwtMjQ5ODA1ODA2LDQ4MjUzNDMx
-NiwtMTEzODM4NjAwMywtMTUzMTE5MjIyOSwzNTkyNjYzMDgsMT
-YyMDMyODk3Miw3MTYwMjYxNjEsLTE5NTk0MTU1MzUsLTE5NTI4
-MTAwNjJdfQ==
+eyJoaXN0b3J5IjpbLTIwODkxMTU5NDksMjkyOTQzMjIsLTY3MT
+k3NDQwOCwxNDc2MDU1NTkwLC0xMjc2Mjg3MDUxLDg2NDkwOTg1
+NCwtMjUyNzgzNDY3LC0xMTY0MDkxODIwLDIzNTI4ODUwOSwtMT
+g2Mjg4ODc4NCw4OTAzNTI2ODUsMTQ2NTc5NjQ5MiwtMjQ5ODA1
+ODA2LDQ4MjUzNDMxNiwtMTEzODM4NjAwMywtMTUzMTE5MjIyOS
+wzNTkyNjYzMDgsMTYyMDMyODk3Miw3MTYwMjYxNjEsLTE5NTk0
+MTU1MzVdfQ==
 -->
