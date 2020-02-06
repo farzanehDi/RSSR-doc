@@ -49,8 +49,7 @@ Our application, for example, starts with the npm run start command and, for exa
 As mentioned earlier, the top of this application is the provider folder,from this folder and the executable tools it is decided which response folder to export (/public or /src)
 If it is static and in the public folder it will definitely be delivered to this folder and otherwise to the src folder.
 finally the response is passed to the browser.
-![](http://webdesignworld.ir/RSSR/R
-SSR-request.png)
+
 # Folder provider entities
 There are three main directories in the provider directory:
 
@@ -95,17 +94,20 @@ And finally, the public folder that for serving static files.
 The src folder connects to the project via the webpack, each of which contains two production and development files that we open inside: one for client mode and one for server mode.
 each of these links to one of the render files(client.js or server.js).
 These two files are connected to the App.js, the other containers in the App.js folder are called directly and only once in the App.js folder.
+
 **Components** that are subsets of the App and connect to them.
+
 **partial** that can be used everywhere and lower than the App section.
+
 Finally the **setup** directory: style entities that are called to the client.js and the rest of the files may be used anywhere
 ![enter image description here](http://webdesignworld.ir/RSSR/src.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTAzMDA2OTIsLTEyODYxOTQ0MDUsLT
-EzNjQ5ODU2MDAsLTk5MzYzODMxOSwxNjY4ODM3NjU2LDYxMzkz
-MjM3LC01MTM0Nzg1MjEsMjkyOTQzMjIsLTY3MTk3NDQwOCwxND
-c2MDU1NTkwLC0xMjc2Mjg3MDUxLDg2NDkwOTg1NCwtMjUyNzgz
-NDY3LC0xMTY0MDkxODIwLDIzNTI4ODUwOSwtMTg2Mjg4ODc4NC
-w4OTAzNTI2ODUsMTQ2NTc5NjQ5MiwtMjQ5ODA1ODA2LDQ4MjUz
-NDMxNl19
+eyJoaXN0b3J5IjpbMTQ3ODQ4OTI3MiwtMTI4NjE5NDQwNSwtMT
+M2NDk4NTYwMCwtOTkzNjM4MzE5LDE2Njg4Mzc2NTYsNjEzOTMy
+MzcsLTUxMzQ3ODUyMSwyOTI5NDMyMiwtNjcxOTc0NDA4LDE0Nz
+YwNTU1OTAsLTEyNzYyODcwNTEsODY0OTA5ODU0LC0yNTI3ODM0
+NjcsLTExNjQwOTE4MjAsMjM1Mjg4NTA5LC0xODYyODg4Nzg0LD
+g5MDM1MjY4NSwxNDY1Nzk2NDkyLC0yNDk4MDU4MDYsNDgyNTM0
+MzE2XX0=
 -->
