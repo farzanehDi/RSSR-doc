@@ -74,11 +74,12 @@ The production commands also execute the production.js file inside the server di
 ***npm run build*** is the command that web pack executes for our project, in fact it processes the src folder to be executed at the end with a set of files specified by us in the web pack configuration.
 So far we have three categories of commands that each run one of our three files. The first two commands create a web server that is persistent and survives, but the last command build the project and the job is done.
 The other folder we had was the ***setup***, which are methods and operations that can be called in all of them.
+The ***development.js*** file in the web pack directory is not executed directly by any command and is for development mode and executes indirectly and holds the project files (src folder) except the files are not on disk and in they are RAM because this shield is done regularly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1Mjg4NTA5LC0xODYyODg4Nzg0LDg5MD
-M1MjY4NSwxNDY1Nzk2NDkyLC0yNDk4MDU4MDYsNDgyNTM0MzE2
-LC0xMTM4Mzg2MDAzLC0xNTMxMTkyMjI5LDM1OTI2NjMwOCwxNj
-IwMzI4OTcyLDcxNjAyNjE2MSwtMTk1OTQxNTUzNSwtMTk1Mjgx
-MDA2MiwyMDEzNjEyMzI2LC00NDQ1MzQ3OTUsLTE4MTE5OTI2NT
-YsMjExOTU0ODM1LDEyNjU1OTY4OTRdfQ==
+eyJoaXN0b3J5IjpbMzc1MjMzNzI5LDIzNTI4ODUwOSwtMTg2Mj
+g4ODc4NCw4OTAzNTI2ODUsMTQ2NTc5NjQ5MiwtMjQ5ODA1ODA2
+LDQ4MjUzNDMxNiwtMTEzODM4NjAwMywtMTUzMTE5MjIyOSwzNT
+kyNjYzMDgsMTYyMDMyODk3Miw3MTYwMjYxNjEsLTE5NTk0MTU1
+MzUsLTE5NTI4MTAwNjIsMjAxMzYxMjMyNiwtNDQ0NTM0Nzk1LC
+0xODExOTkyNjU2LDIxMTk1NDgzNSwxMjY1NTk2ODk0XX0=
 -->
