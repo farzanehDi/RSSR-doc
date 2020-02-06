@@ -82,12 +82,13 @@ Both production setting and development setting on the web pack ,call src folder
 The ***dist*** folder (which is physically) is for production mode and the dist files are directly called in the production.js file.
 
 And finally, the public folder that for serving static files.
+![enter image description here](http://webdesignworld.ir/RSSR/RSSR.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzYyODcwNTEsODY0OTA5ODU0LC0yNT
-I3ODM0NjcsLTExNjQwOTE4MjAsMjM1Mjg4NTA5LC0xODYyODg4
-Nzg0LDg5MDM1MjY4NSwxNDY1Nzk2NDkyLC0yNDk4MDU4MDYsND
-gyNTM0MzE2LC0xMTM4Mzg2MDAzLC0xNTMxMTkyMjI5LDM1OTI2
-NjMwOCwxNjIwMzI4OTcyLDcxNjAyNjE2MSwtMTk1OTQxNTUzNS
-wtMTk1MjgxMDA2MiwyMDEzNjEyMzI2LC00NDQ1MzQ3OTUsLTE4
-MTE5OTI2NTZdfQ==
+eyJoaXN0b3J5IjpbMTQ3NjA1NTU5MCwtMTI3NjI4NzA1MSw4Nj
+Q5MDk4NTQsLTI1Mjc4MzQ2NywtMTE2NDA5MTgyMCwyMzUyODg1
+MDksLTE4NjI4ODg3ODQsODkwMzUyNjg1LDE0NjU3OTY0OTIsLT
+I0OTgwNTgwNiw0ODI1MzQzMTYsLTExMzgzODYwMDMsLTE1MzEx
+OTIyMjksMzU5MjY2MzA4LDE2MjAzMjg5NzIsNzE2MDI2MTYxLC
+0xOTU5NDE1NTM1LC0xOTUyODEwMDYyLDIwMTM2MTIzMjYsLTQ0
+NDUzNDc5NV19
 -->
