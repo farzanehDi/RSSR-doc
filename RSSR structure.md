@@ -75,9 +75,9 @@ The production commands also execute the production.js file inside the server di
 So far we have three categories of commands that each run one of our three files. The first two commands create a web server that is persistent and survives, but the last command build the project and the job is done.
 The other folder we had was the ***setup***, which are methods and operations that can be called in all of them.
 The ***development.js*** file in the web pack directory is not executed directly by any command and is for development mode and executes indirectly and build the project files (src folder) except the files are not on disk and in they are RAM because this build is done regularly.
-It actually executes the result of the npm run build file production.js command in the web pack and eventually creates a folder called dist at the root of the project which is a series of physical files.
+In fact, the result of the npm run build command executes the production.js file in the web pack and ultimately creates a folder called dist at the root of the project, which is a series of physical files.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgwMTYzMiwtMTE2NDA5MTgyMCwyMz
+eyJoaXN0b3J5IjpbLTI1Mjc4MzQ2NywtMTE2NDA5MTgyMCwyMz
 UyODg1MDksLTE4NjI4ODg3ODQsODkwMzUyNjg1LDE0NjU3OTY0
 OTIsLTI0OTgwNTgwNiw0ODI1MzQzMTYsLTExMzgzODYwMDMsLT
 E1MzExOTIyMjksMzU5MjY2MzA4LDE2MjAzMjg5NzIsNzE2MDI2
