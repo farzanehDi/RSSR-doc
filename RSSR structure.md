@@ -91,14 +91,14 @@ And finally, the public folder that for serving static files.
  - **App**: Includes standalone entities that can cover a full view of the site and connect to the site's routing.
  -  **component**: components that do not meet the app directory requirements and are shared between several containers.
  - **patial**: there are tools ,this directory contains react entities.
- - **setup**: 
+ - **setup**: general settings and structures include the src section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0MDg1MzQ5LDI5Mjk0MzIyLC02NzE5Nz
-Q0MDgsMTQ3NjA1NTU5MCwtMTI3NjI4NzA1MSw4NjQ5MDk4NTQs
-LTI1Mjc4MzQ2NywtMTE2NDA5MTgyMCwyMzUyODg1MDksLTE4Nj
-I4ODg3ODQsODkwMzUyNjg1LDE0NjU3OTY0OTIsLTI0OTgwNTgw
-Niw0ODI1MzQzMTYsLTExMzgzODYwMDMsLTE1MzExOTIyMjksMz
-U5MjY2MzA4LDE2MjAzMjg5NzIsNzE2MDI2MTYxLC0xOTU5NDE1
-NTM1XX0=
+eyJoaXN0b3J5IjpbLTUxMzQ3ODUyMSwyOTI5NDMyMiwtNjcxOT
+c0NDA4LDE0NzYwNTU1OTAsLTEyNzYyODcwNTEsODY0OTA5ODU0
+LC0yNTI3ODM0NjcsLTExNjQwOTE4MjAsMjM1Mjg4NTA5LC0xOD
+YyODg4Nzg0LDg5MDM1MjY4NSwxNDY1Nzk2NDkyLC0yNDk4MDU4
+MDYsNDgyNTM0MzE2LC0xMTM4Mzg2MDAzLC0xNTMxMTkyMjI5LD
+M1OTI2NjMwOCwxNjIwMzI4OTcyLDcxNjAyNjE2MSwtMTk1OTQx
+NTUzNV19
 -->
