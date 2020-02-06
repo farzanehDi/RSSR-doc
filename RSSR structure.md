@@ -92,13 +92,15 @@ And finally, the public folder that for serving static files.
  -  **component**: components that do not meet the app directory requirements and are shared between several containers.
  - **patial**: there are tools ,this directory contains react entities.
  - **setup**: general settings and structures include the src section.
+The src folder is linked to the project via the webpack, each of which opens the production and development files. There are two configs inside: one for client mode and one for server mode.
+Each of these links to one of the render files(client.js or server.js).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzQ3ODUyMSwyOTI5NDMyMiwtNjcxOT
-c0NDA4LDE0NzYwNTU1OTAsLTEyNzYyODcwNTEsODY0OTA5ODU0
-LC0yNTI3ODM0NjcsLTExNjQwOTE4MjAsMjM1Mjg4NTA5LC0xOD
-YyODg4Nzg0LDg5MDM1MjY4NSwxNDY1Nzk2NDkyLC0yNDk4MDU4
-MDYsNDgyNTM0MzE2LC0xMTM4Mzg2MDAzLC0xNTMxMTkyMjI5LD
-M1OTI2NjMwOCwxNjIwMzI4OTcyLDcxNjAyNjE2MSwtMTk1OTQx
-NTUzNV19
+eyJoaXN0b3J5IjpbNjEzOTMyMzcsLTUxMzQ3ODUyMSwyOTI5ND
+MyMiwtNjcxOTc0NDA4LDE0NzYwNTU1OTAsLTEyNzYyODcwNTEs
+ODY0OTA5ODU0LC0yNTI3ODM0NjcsLTExNjQwOTE4MjAsMjM1Mj
+g4NTA5LC0xODYyODg4Nzg0LDg5MDM1MjY4NSwxNDY1Nzk2NDky
+LC0yNDk4MDU4MDYsNDgyNTM0MzE2LC0xMTM4Mzg2MDAzLC0xNT
+MxMTkyMjI5LDM1OTI2NjMwOCwxNjIwMzI4OTcyLDcxNjAyNjE2
+MV19
 -->
