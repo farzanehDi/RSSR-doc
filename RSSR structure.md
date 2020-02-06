@@ -66,12 +66,13 @@ There are three main directories in the provider directory:
 	 * ***npm run up***:In fact, to help with the second command, we use this command to update the project when the project is running with pm-2.
 	 
  - The last command is the ***npm run build***, which when we want to execute the production mode, we first execute this command to really build the project and place it on disk and execute the production mode commands.
+ 
 npm scripts execute that file if they hit a file,the ***npm run dev*** command will execute the **development** file located in the server folder and in the provider folder.
 If you go inside the development.js file in the server directory you can see that we wrote a node.js web server with express.finally, what appears to be a node.js web server configured to run our project in development mode.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5ODcxNDIwLC0yNDk4MDU4MDYsNDgyNT
-M0MzE2LC0xMTM4Mzg2MDAzLC0xNTMxMTkyMjI5LDM1OTI2NjMw
-OCwxNjIwMzI4OTcyLDcxNjAyNjE2MSwtMTk1OTQxNTUzNSwtMT
-k1MjgxMDA2MiwyMDEzNjEyMzI2LC00NDQ1MzQ3OTUsLTE4MTE5
-OTI2NTYsMjExOTU0ODM1LDEyNjU1OTY4OTRdfQ==
+eyJoaXN0b3J5IjpbMTQ2NTc5NjQ5MiwtMjQ5ODA1ODA2LDQ4Mj
+UzNDMxNiwtMTEzODM4NjAwMywtMTUzMTE5MjIyOSwzNTkyNjYz
+MDgsMTYyMDMyODk3Miw3MTYwMjYxNjEsLTE5NTk0MTU1MzUsLT
+E5NTI4MTAwNjIsMjAxMzYxMjMyNiwtNDQ0NTM0Nzk1LC0xODEx
+OTkyNjU2LDIxMTk1NDgzNSwxMjY1NTk2ODk0XX0=
 -->
