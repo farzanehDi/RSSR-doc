@@ -69,10 +69,13 @@ There are three main directories in the provider directory:
  
 npm scripts execute that file if they hit a file,the ***npm run dev*** command will execute the **development** file located in the server folder and in the provider folder.
 If you go inside the development.js file in the server directory you can see that we wrote a node.js web server with express.finally, what appears to be a node.js web server configured to run our project in development mode.
+
+The production commands also execute the production.js file inside the server directory and do the same thing as the development file this time in the production mode, though some configs are different.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTc5NjQ5MiwtMjQ5ODA1ODA2LDQ4Mj
-UzNDMxNiwtMTEzODM4NjAwMywtMTUzMTE5MjIyOSwzNTkyNjYz
-MDgsMTYyMDMyODk3Miw3MTYwMjYxNjEsLTE5NTk0MTU1MzUsLT
-E5NTI4MTAwNjIsMjAxMzYxMjMyNiwtNDQ0NTM0Nzk1LC0xODEx
-OTkyNjU2LDIxMTk1NDgzNSwxMjY1NTk2ODk0XX0=
+eyJoaXN0b3J5IjpbODkwMzUyNjg1LDE0NjU3OTY0OTIsLTI0OT
+gwNTgwNiw0ODI1MzQzMTYsLTExMzgzODYwMDMsLTE1MzExOTIy
+MjksMzU5MjY2MzA4LDE2MjAzMjg5NzIsNzE2MDI2MTYxLC0xOT
+U5NDE1NTM1LC0xOTUyODEwMDYyLDIwMTM2MTIzMjYsLTQ0NDUz
+NDc5NSwtMTgxMTk5MjY1NiwyMTE5NTQ4MzUsMTI2NTU5Njg5NF
+19
 -->
