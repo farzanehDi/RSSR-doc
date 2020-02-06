@@ -95,13 +95,14 @@ And finally, the public folder that for serving static files.
 The src folder connects to the project via the webpack, each of which contains two production and development files that we open inside: one for client mode and one for server mode.
 each of these links to one of the render files(client.js or server.js).
 These two files are connected to the App.js, the other containers in the App.js folder are called directly and only once in the App.js folder.
+Components that are subsets of the App and connect to them.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzYzODMxOSwxNjY4ODM3NjU2LDYxMz
-kzMjM3LC01MTM0Nzg1MjEsMjkyOTQzMjIsLTY3MTk3NDQwOCwx
-NDc2MDU1NTkwLC0xMjc2Mjg3MDUxLDg2NDkwOTg1NCwtMjUyNz
-gzNDY3LC0xMTY0MDkxODIwLDIzNTI4ODUwOSwtMTg2Mjg4ODc4
-NCw4OTAzNTI2ODUsMTQ2NTc5NjQ5MiwtMjQ5ODA1ODA2LDQ4Mj
-UzNDMxNiwtMTEzODM4NjAwMywtMTUzMTE5MjIyOSwzNTkyNjYz
-MDhdfQ==
+eyJoaXN0b3J5IjpbMTM3NDc1MDgwOCwtOTkzNjM4MzE5LDE2Nj
+g4Mzc2NTYsNjEzOTMyMzcsLTUxMzQ3ODUyMSwyOTI5NDMyMiwt
+NjcxOTc0NDA4LDE0NzYwNTU1OTAsLTEyNzYyODcwNTEsODY0OT
+A5ODU0LC0yNTI3ODM0NjcsLTExNjQwOTE4MjAsMjM1Mjg4NTA5
+LC0xODYyODg4Nzg0LDg5MDM1MjY4NSwxNDY1Nzk2NDkyLC0yND
+k4MDU4MDYsNDgyNTM0MzE2LC0xMTM4Mzg2MDAzLC0xNTMxMTky
+MjI5XX0=
 -->
