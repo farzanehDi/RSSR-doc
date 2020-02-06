@@ -49,7 +49,7 @@ Our application, for example, starts with the npm run start command and, for exa
 As mentioned earlier, the top of this application is the provider folder,from this folder and the executable tools it is decided which response folder to export (/public or /src)
 If it is static and in the public folder it will definitely be delivered to this folder and otherwise to the src folder.
 finally the response is passed to the browser.
-
+![enter image description here](http://webdesignworld.ir/RSSR/RSSR-request.png)
 # Folder provider entities
 There are three main directories in the provider directory:
 
@@ -103,7 +103,7 @@ Finally the **setup** directory: style entities that are called to the client.js
 ![enter image description here](http://webdesignworld.ir/RSSR/src.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODQ4OTI3MiwtMTI4NjE5NDQwNSwtMT
+eyJoaXN0b3J5IjpbLTczNzU2NDc4MywtMTI4NjE5NDQwNSwtMT
 M2NDk4NTYwMCwtOTkzNjM4MzE5LDE2Njg4Mzc2NTYsNjEzOTMy
 MzcsLTUxMzQ3ODUyMSwyOTI5NDMyMiwtNjcxOTc0NDA4LDE0Nz
 YwNTU1OTAsLTEyNzYyODcwNTEsODY0OTA5ODU0LC0yNTI3ODM0
