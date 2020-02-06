@@ -97,10 +97,10 @@ each of these links to one of the render files(client.js or server.js).
 These two files are connected to the App.js, the other containers in the App.js folder are called directly and only once in the App.js folder.
 **Components** that are subsets of the App and connect to them.
 **partial** that can be used everywhere and lower than the App section.
-Finally the **setup** directory: In-style entities that are called to the client.js and the rest of the files may be used anywhere
+Finally the **setup** directory: style entities that are called to the client.js and the rest of the files may be used anywhere
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU2MzExNjEsLTEzNjQ5ODU2MDAsLT
+eyJoaXN0b3J5IjpbLTEyODYxOTQ0MDUsLTEzNjQ5ODU2MDAsLT
 k5MzYzODMxOSwxNjY4ODM3NjU2LDYxMzkzMjM3LC01MTM0Nzg1
 MjEsMjkyOTQzMjIsLTY3MTk3NDQwOCwxNDc2MDU1NTkwLC0xMj
 c2Mjg3MDUxLDg2NDkwOTg1NCwtMjUyNzgzNDY3LC0xMTY0MDkx
