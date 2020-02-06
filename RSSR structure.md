@@ -94,13 +94,14 @@ And finally, the public folder that for serving static files.
  - **setup**: general settings and structures include the src section.
 The src folder connects to the project via the webpack, each of which contains two production and development files that we open inside: one for client mode and one for server mode.
 each of these links to one of the render files(client.js or server.js).
+These two files are connected to the star, the other containers in the star folder are called directly and only once in the star folder.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODgzNzY1Niw2MTM5MzIzNywtNTEzND
-c4NTIxLDI5Mjk0MzIyLC02NzE5NzQ0MDgsMTQ3NjA1NTU5MCwt
-MTI3NjI4NzA1MSw4NjQ5MDk4NTQsLTI1Mjc4MzQ2NywtMTE2ND
-A5MTgyMCwyMzUyODg1MDksLTE4NjI4ODg3ODQsODkwMzUyNjg1
-LDE0NjU3OTY0OTIsLTI0OTgwNTgwNiw0ODI1MzQzMTYsLTExMz
-gzODYwMDMsLTE1MzExOTIyMjksMzU5MjY2MzA4LDE2MjAzMjg5
-NzJdfQ==
+eyJoaXN0b3J5IjpbMTAwMTA3NjU1NywxNjY4ODM3NjU2LDYxMz
+kzMjM3LC01MTM0Nzg1MjEsMjkyOTQzMjIsLTY3MTk3NDQwOCwx
+NDc2MDU1NTkwLC0xMjc2Mjg3MDUxLDg2NDkwOTg1NCwtMjUyNz
+gzNDY3LC0xMTY0MDkxODIwLDIzNTI4ODUwOSwtMTg2Mjg4ODc4
+NCw4OTAzNTI2ODUsMTQ2NTc5NjQ5MiwtMjQ5ODA1ODA2LDQ4Mj
+UzNDMxNiwtMTEzODM4NjAwMywtMTUzMTE5MjIyOSwzNTkyNjYz
+MDhdfQ==
 -->
