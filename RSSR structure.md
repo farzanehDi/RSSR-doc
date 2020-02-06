@@ -89,14 +89,14 @@ And finally, the public folder that for serving static files.
 
  - **render**:the starting point is the src section, the basic configs are in this section.
  - **App**: Includes standalone entities that can cover a full view of the site and connect to the site's routing.
- -  **component**:
+ -  **component**: components that do not meet the app directory requirements and are shared between several containers
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODkxMTU5NDksMjkyOTQzMjIsLTY3MT
-k3NDQwOCwxNDc2MDU1NTkwLC0xMjc2Mjg3MDUxLDg2NDkwOTg1
-NCwtMjUyNzgzNDY3LC0xMTY0MDkxODIwLDIzNTI4ODUwOSwtMT
-g2Mjg4ODc4NCw4OTAzNTI2ODUsMTQ2NTc5NjQ5MiwtMjQ5ODA1
-ODA2LDQ4MjUzNDMxNiwtMTEzODM4NjAwMywtMTUzMTE5MjIyOS
-wzNTkyNjYzMDgsMTYyMDMyODk3Miw3MTYwMjYxNjEsLTE5NTk0
-MTU1MzVdfQ==
+eyJoaXN0b3J5IjpbLTU2MTY4MTQsMjkyOTQzMjIsLTY3MTk3ND
+QwOCwxNDc2MDU1NTkwLC0xMjc2Mjg3MDUxLDg2NDkwOTg1NCwt
+MjUyNzgzNDY3LC0xMTY0MDkxODIwLDIzNTI4ODUwOSwtMTg2Mj
+g4ODc4NCw4OTAzNTI2ODUsMTQ2NTc5NjQ5MiwtMjQ5ODA1ODA2
+LDQ4MjUzNDMxNiwtMTEzODM4NjAwMywtMTUzMTE5MjIyOSwzNT
+kyNjYzMDgsMTYyMDMyODk3Miw3MTYwMjYxNjEsLTE5NTk0MTU1
+MzVdfQ==
 -->
