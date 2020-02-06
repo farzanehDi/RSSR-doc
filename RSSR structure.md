@@ -78,12 +78,14 @@ The ***development.js*** file in the web pack directory is not executed directly
 In fact, the result of the npm run build command executes the production.js file in the web pack and ultimately creates a folder called dist at the root of the project, which is a series of physical files.
 
 Both production setting and development setting on the web pack ,call src folder. Connecting the provider section to the src section is done via web pack settings because the src directory is not directly implemented on the node server but is to be compiled on it.
+
+The dist folder (which is physically) is for production mode and the star files are directly called in the star file.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0OTA5ODU0LC0yNTI3ODM0NjcsLTExNj
-QwOTE4MjAsMjM1Mjg4NTA5LC0xODYyODg4Nzg0LDg5MDM1MjY4
-NSwxNDY1Nzk2NDkyLC0yNDk4MDU4MDYsNDgyNTM0MzE2LC0xMT
-M4Mzg2MDAzLC0xNTMxMTkyMjI5LDM1OTI2NjMwOCwxNjIwMzI4
-OTcyLDcxNjAyNjE2MSwtMTk1OTQxNTUzNSwtMTk1MjgxMDA2Mi
-wyMDEzNjEyMzI2LC00NDQ1MzQ3OTUsLTE4MTE5OTI2NTYsMjEx
-OTU0ODM1XX0=
+eyJoaXN0b3J5IjpbMjA5OTMxMTAzNCw4NjQ5MDk4NTQsLTI1Mj
+c4MzQ2NywtMTE2NDA5MTgyMCwyMzUyODg1MDksLTE4NjI4ODg3
+ODQsODkwMzUyNjg1LDE0NjU3OTY0OTIsLTI0OTgwNTgwNiw0OD
+I1MzQzMTYsLTExMzgzODYwMDMsLTE1MzExOTIyMjksMzU5MjY2
+MzA4LDE2MjAzMjg5NzIsNzE2MDI2MTYxLC0xOTU5NDE1NTM1LC
+0xOTUyODEwMDYyLDIwMTM2MTIzMjYsLTQ0NDUzNDc5NSwtMTgx
+MTk5MjY1Nl19
 -->
