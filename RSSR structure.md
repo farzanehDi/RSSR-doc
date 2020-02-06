@@ -90,10 +90,11 @@ And finally, the public folder that for serving static files.
  - **render**:the starting point is the src section, the basic configs are in this section.
  - **App**: Includes standalone entities that can cover a full view of the site and connect to the site's routing.
  -  **component**: components that do not meet the app directory requirements and are shared between several containers.
- - **patial**: 
+ - **patial**: there are tools ,this directory contains react entities.
+ - **setup**: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyMTYxNDQ4LDI5Mjk0MzIyLC02NzE5Nz
+eyJoaXN0b3J5IjpbODc0MDg1MzQ5LDI5Mjk0MzIyLC02NzE5Nz
 Q0MDgsMTQ3NjA1NTU5MCwtMTI3NjI4NzA1MSw4NjQ5MDk4NTQs
 LTI1Mjc4MzQ2NywtMTE2NDA5MTgyMCwyMzUyODg1MDksLTE4Nj
 I4ODg3ODQsODkwMzUyNjg1LDE0NjU3OTY0OTIsLTI0OTgwNTgw
