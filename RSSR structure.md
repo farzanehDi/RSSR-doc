@@ -72,11 +72,12 @@ If you go inside the development.js file in the server directory you can see tha
 
 The production commands also execute the production.js file inside the server directory and do the same thing as the development file this time in the production mode, though some configs are different.
 ***npm run build*** is the command that web pack executes for our project, in fact it processes the src folder to be executed at the end with a set of files specified by us in the web pack configuration.
+So far we have three categories of commands that each run one of our three files. The first two commands create a web server that is persistent and survives, but the last command build the project and the job is done.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI4ODg3ODQsODkwMzUyNjg1LDE0Nj
-U3OTY0OTIsLTI0OTgwNTgwNiw0ODI1MzQzMTYsLTExMzgzODYw
-MDMsLTE1MzExOTIyMjksMzU5MjY2MzA4LDE2MjAzMjg5NzIsNz
-E2MDI2MTYxLC0xOTU5NDE1NTM1LC0xOTUyODEwMDYyLDIwMTM2
-MTIzMjYsLTQ0NDUzNDc5NSwtMTgxMTk5MjY1NiwyMTE5NTQ4Mz
-UsMTI2NTU5Njg5NF19
+eyJoaXN0b3J5IjpbLTI3NjczMDQwMCwtMTg2Mjg4ODc4NCw4OT
+AzNTI2ODUsMTQ2NTc5NjQ5MiwtMjQ5ODA1ODA2LDQ4MjUzNDMx
+NiwtMTEzODM4NjAwMywtMTUzMTE5MjIyOSwzNTkyNjYzMDgsMT
+YyMDMyODk3Miw3MTYwMjYxNjEsLTE5NTk0MTU1MzUsLTE5NTI4
+MTAwNjIsMjAxMzYxMjMyNiwtNDQ0NTM0Nzk1LC0xODExOTkyNj
+U2LDIxMTk1NDgzNSwxMjY1NTk2ODk0XX0=
 -->
