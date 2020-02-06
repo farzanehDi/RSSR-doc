@@ -98,13 +98,14 @@ These two files are connected to the App.js, the other containers in the App.js 
 **Components** that are subsets of the App and connect to them.
 **partial** that can be used everywhere and lower than the App section.
 Finally the **setup** directory: style entities that are called to the client.js and the rest of the files may be used anywhere
+![enter image description here](http://webdesignworld.ir/RSSR/src.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODYxOTQ0MDUsLTEzNjQ5ODU2MDAsLT
-k5MzYzODMxOSwxNjY4ODM3NjU2LDYxMzkzMjM3LC01MTM0Nzg1
-MjEsMjkyOTQzMjIsLTY3MTk3NDQwOCwxNDc2MDU1NTkwLC0xMj
-c2Mjg3MDUxLDg2NDkwOTg1NCwtMjUyNzgzNDY3LC0xMTY0MDkx
-ODIwLDIzNTI4ODUwOSwtMTg2Mjg4ODc4NCw4OTAzNTI2ODUsMT
-Q2NTc5NjQ5MiwtMjQ5ODA1ODA2LDQ4MjUzNDMxNiwtMTEzODM4
-NjAwM119
+eyJoaXN0b3J5IjpbLTE5MTAzMDA2OTIsLTEyODYxOTQ0MDUsLT
+EzNjQ5ODU2MDAsLTk5MzYzODMxOSwxNjY4ODM3NjU2LDYxMzkz
+MjM3LC01MTM0Nzg1MjEsMjkyOTQzMjIsLTY3MTk3NDQwOCwxND
+c2MDU1NTkwLC0xMjc2Mjg3MDUxLDg2NDkwOTg1NCwtMjUyNzgz
+NDY3LC0xMTY0MDkxODIwLDIzNTI4ODUwOSwtMTg2Mjg4ODc4NC
+w4OTAzNTI2ODUsMTQ2NTc5NjQ5MiwtMjQ5ODA1ODA2LDQ4MjUz
+NDMxNl19
 -->
