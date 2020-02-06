@@ -84,12 +84,17 @@ The ***dist*** folder (which is physically) is for production mode and the dist 
 
 And finally, the public folder that for serving static files.
 ![enter image description here](http://webdesignworld.ir/RSSR/RSSR.jpg)
+
+# src folder structure
+
+ - **render**:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTk3NDQwOCwxNDc2MDU1NTkwLC0xMj
-c2Mjg3MDUxLDg2NDkwOTg1NCwtMjUyNzgzNDY3LC0xMTY0MDkx
-ODIwLDIzNTI4ODUwOSwtMTg2Mjg4ODc4NCw4OTAzNTI2ODUsMT
-Q2NTc5NjQ5MiwtMjQ5ODA1ODA2LDQ4MjUzNDMxNiwtMTEzODM4
-NjAwMywtMTUzMTE5MjIyOSwzNTkyNjYzMDgsMTYyMDMyODk3Mi
-w3MTYwMjYxNjEsLTE5NTk0MTU1MzUsLTE5NTI4MTAwNjIsMjAx
-MzYxMjMyNl19
+eyJoaXN0b3J5IjpbMTA1MjI5ODgzNSwtNjcxOTc0NDA4LDE0Nz
+YwNTU1OTAsLTEyNzYyODcwNTEsODY0OTA5ODU0LC0yNTI3ODM0
+NjcsLTExNjQwOTE4MjAsMjM1Mjg4NTA5LC0xODYyODg4Nzg0LD
+g5MDM1MjY4NSwxNDY1Nzk2NDkyLC0yNDk4MDU4MDYsNDgyNTM0
+MzE2LC0xMTM4Mzg2MDAzLC0xNTMxMTkyMjI5LDM1OTI2NjMwOC
+wxNjIwMzI4OTcyLDcxNjAyNjE2MSwtMTk1OTQxNTUzNSwtMTk1
+MjgxMDA2Ml19
 -->
