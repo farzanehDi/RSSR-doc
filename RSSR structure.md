@@ -93,10 +93,10 @@ And finally, the public folder that for serving static files.
  - **patial**: there are tools ,this directory contains react entities.
  - **setup**: general settings and structures include the src section.
 The src folder connects to the project via the webpack, each of which contains two production and development files that we open inside: one for client mode and one for server mode.
-Each of these links to one of the star files(client.js or server.js).
+each of these links to one of the render files(client.js or server.js).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzcyOTU4OCw2MTM5MzIzNywtNTEzND
+eyJoaXN0b3J5IjpbMTY2ODgzNzY1Niw2MTM5MzIzNywtNTEzND
 c4NTIxLDI5Mjk0MzIyLC02NzE5NzQ0MDgsMTQ3NjA1NTU5MCwt
 MTI3NjI4NzA1MSw4NjQ5MDk4NTQsLTI1Mjc4MzQ2NywtMTE2ND
 A5MTgyMCwyMzUyODg1MDksLTE4NjI4ODg3ODQsODkwMzUyNjg1
